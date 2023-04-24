@@ -6,14 +6,14 @@ Dans cet exercice, nous allons créer un fichier HTML avec plusieurs éléments 
 ### 🟢 Instructions :
 
 - Créez un fichier HTML contenant les éléments suivants :
-- Un paragraphe avec un texte simple.
-- Un bouton "Changer la couleur".
-- Un bouton "Réinitialiser la couleur".
-- Un élément div avec un texte à l'intérieur.
-- Un bouton "Afficher/Cacher".
-- Un champ de saisie de texte.
-- Un bouton "Ajouter".
-- Une liste vide (ul).
+1. Un paragraphe avec un texte simple.
+2. Un bouton "Changer la couleur".
+3. Un bouton "Réinitialiser la couleur".
+4. Un élément div avec un texte à l'intérieur.
+5. Un bouton "Afficher/Cacher".
+6. Un champ de saisie de texte.
+7. Un bouton "Ajouter".
+8. Une liste vide (ul).
 
 ### 🟢 Partie 1 : Changer la couleur du texte
 Lorsque l'utilisateur clique sur le bouton "Changer la couleur", utilisez JavaScript pour changer la couleur du texte du paragraphe.
