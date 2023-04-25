@@ -13,12 +13,13 @@ Dans cet exercice, vous allez créer un quiz interactif qui pose des questions a
 
 - Créez un fichier JavaScript pour gérer la logique du quiz :
 
-1. Créez un objets contenant les questions, les réponses possibles et la réponse correcte.
-2. Créez une fonction pour afficher la question en cours et les réponses possibles.
-3. Utilisez l'attribut `onclick` ou des écouteurs d'événements `addEventListener` pour détecter les clics sur les boutons de réponse et vérifier si la réponse est correcte.
-4. Si la réponse est correcte, augmentez le score de l'utilisateur.
-5. Lorsque l'utilisateur clique sur le bouton contenant la réponse, passez à la question suivante et mettez à jour l'affichage.
-6. À la fin du quiz, affichez le score final de l'utilisateur.
+1. Aidez vous des consignes ci-dessous pour écrire un pseudo code pour construire votre logique.
+2. Créez un objets contenant les questions, les réponses possibles et la réponse correcte.
+3. Créez une fonction pour afficher la question en cours et les réponses possibles.
+4. Utilisez l'attribut `onclick` ou des écouteurs d'événements `addEventListener` pour détecter les clics sur les boutons de réponse et vérifier si la réponse est correcte.
+5. Si la réponse est correcte, augmentez le score de l'utilisateur.
+6. Lorsque l'utilisateur clique sur le bouton contenant la réponse, passez à la question suivante et mettez à jour l'affichage.
+7. À la fin du quiz, affichez le score final de l'utilisateur.
 
 ### 🟢 Amusez-vous :
 Créez un fichier CSS pour styliser la page du quiz :
@@ -29,7 +30,6 @@ Créez un fichier CSS pour styliser la page du quiz :
 - Utilisez des transitions ou des animations pour améliorer l'expérience utilisateur.
 
 ### 🟢 Conseils :
-- Écrivez un pseudo code pour construire votre logique
 - Pensez à bien structurer votre code JavaScript en utilisant des fonctions pour séparer les différentes parties de la logique du quiz.
 - N'hésitez pas à consulter la [documentation](https://developer.mozilla.org/fr/docs/Web/JavaScript) en ligne et à vous référer aux concepts que vous avez appris précédemment.
 - Testez et déboguez votre quiz pour vous assurer qu'il fonctionne correctement et qu'il gère les erreurs potentielles.
