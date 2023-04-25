@@ -11,14 +11,15 @@ Dans cet exercice, vous allez créer un quiz interactif qui pose des questions a
 3. Plusieurs boutons pour les réponses possibles.
 4. Un bouton "Suivant" pour passer à la question suivante.
 5. Un élément pour afficher le score de l'utilisateur.
-6. Créez un fichier JavaScript pour gérer la logique du quiz :
 
-- Créez un objets contenant les questions, les réponses possibles et la réponse correcte.
-- Créez une fonction pour afficher la question en cours et les réponses possibles.
-- Utilisez l'attribut `onclick` ou des écouteurs d'événements `addEventListener` pour détecter les clics sur les boutons de réponse et vérifier si la réponse est correcte.
-- Si la réponse est correcte, augmentez le score de l'utilisateur.
-- Lorsque l'utilisateur clique sur le bouton contenant la réponse, passez à la question suivante et mettez à jour l'affichage.
-- À la fin du quiz, affichez le score final de l'utilisateur.
+- Créez un fichier JavaScript pour gérer la logique du quiz :
+
+1. Créez un objets contenant les questions, les réponses possibles et la réponse correcte.
+2. Créez une fonction pour afficher la question en cours et les réponses possibles.
+3. Utilisez l'attribut `onclick` ou des écouteurs d'événements `addEventListener` pour détecter les clics sur les boutons de réponse et vérifier si la réponse est correcte.
+4. Si la réponse est correcte, augmentez le score de l'utilisateur.
+5. Lorsque l'utilisateur clique sur le bouton contenant la réponse, passez à la question suivante et mettez à jour l'affichage.
+6. À la fin du quiz, affichez le score final de l'utilisateur.
 
 ### 🟢 Amusez-vous :
 Créez un fichier CSS pour styliser la page du quiz :
