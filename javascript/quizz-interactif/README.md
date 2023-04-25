@@ -9,8 +9,7 @@ Dans cet exercice, vous allez créer un quiz interactif qui pose des questions a
 1. Un titre pour le quiz.
 2. Un élément pour afficher la question en cours.
 3. Plusieurs boutons pour les réponses possibles.
-4. Un bouton "Suivant" pour passer à la question suivante.
-5. Un élément pour afficher le score de l'utilisateur.
+4. Un élément pour afficher le score de l'utilisateur.
 
 - Créez un fichier JavaScript pour gérer la logique du quiz :
 
